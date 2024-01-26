@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ec41898-b1cc-4165-9bac-1901ef6de5f1": {
+      "ProjectGuid": "2ec41898-b1cc-4165-9bac-1901ef6de5f1",
+      "DisplayName": "GhostTimer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

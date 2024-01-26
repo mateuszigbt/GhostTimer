@@ -1,0 +1,26 @@
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\bin\Debug\GhostTimer.exe.config
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\bin\Debug\GhostTimer.exe
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\bin\Debug\GhostTimer.pdb
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.AssemblyReference.cache
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.SuggestedBindingRedirects.cache
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.Form1.resources
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.Properties.Resources.resources
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.GenerateResource.cache
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.CoreCompileInputs.cache
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.exe
+D:\uczelnia cos na zaliczenie\GhostTimer\GhostTimer\obj\Debug\GhostTimer.pdb
+D:\Projects\GhostTimer\GhostTimer\bin\Debug\GhostTimer.exe.config
+D:\Projects\GhostTimer\GhostTimer\bin\Debug\GhostTimer.exe
+D:\Projects\GhostTimer\GhostTimer\bin\Debug\GhostTimer.pdb
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.AssemblyReference.cache
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.Form1.resources
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.Properties.Resources.resources
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.GenerateResource.cache
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.csproj.CoreCompileInputs.cache
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.exe
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.pdb
+D:\Projects\GhostTimer\GhostTimer\bin\Debug\GhostTimer.exe.manifest
+D:\Projects\GhostTimer\GhostTimer\bin\Debug\GhostTimer.application
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.TrustInfo.xml
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.exe.manifest
+D:\Projects\GhostTimer\GhostTimer\obj\Debug\GhostTimer.application
