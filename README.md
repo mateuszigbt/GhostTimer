@@ -1,2 +1,2 @@
-#Ghost timer
-###Simple stopwatch to supporting ghost countdown.
+# Ghost timer
+Simple stopwatch to supporting ghost countdown.
